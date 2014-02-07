@@ -9,6 +9,7 @@ A list of resources for Node.js Newbies!
 |Express.js Fundamentals|http://flippinawesome.org/2013/11/11/express-js-fundamentals/|Covers the basics of getting started and core concepts|1||
 |The Art of Node|http://github.com/maxogden/art-of-node|An introduction to Node.js that includes the command line workshopper Learn You Node and Stream Adventure courses from nodeschool.io|1||
 |Learn to Code|http://ifoundthemeaningoflife.com/learntocode|Not so much a tutorial as a guide through available tutorials. Path from beginner > JS & Node > intermediate|1||
+|Node.js Fundamentals|http://strongloop.com/developers/videos/#a-video-intro-to-nodejs-fundamentals| Video explaining Node.js fundamentals.|1||
 |Intro to Express.js Parameters, Error Handling and Other Middleware |http://flippinawesome.org/2013/05/28/intro-to-express-js-parameters-error-handling-and-other-middleware/|Discusses some of the core Express features in the form of middleware|2||
 |Emailing in Node.js with Nodemailer |http://blog.ijasoneverett.com/2013/07/emailing-in-node-js-with-nodemailer/|Walks through the process of using nodemailer to send email|2||
 |The Dead-Simple Step-by-Step Guide for Front-End Developers to Getting Up and Running with Node.JS, Express, Jade, and MongoDB |http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/|Set up the full stack and have a webpage running in 30 minutes. Make it talk to your DB in another 30. |2||
