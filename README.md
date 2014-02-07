@@ -25,6 +25,13 @@ A list of resources for Node.js Newbies!
 |Node Angular Mongo & Express
 Mean stack articles + many good things|http://flip.it/OxXyB|Magazine about the MEAN stack (MongoDB, ExpressJS, AngularJS and Node.js)|*||
 |Learn All The Nodes|http://learnallthenodes.com|Weekly screencasts on Node.js.  The current episodes are all beginners.|2||
+|Node: Up and Running|http://chimera.labs.oreilly.com/books/1234000001808/index.html|Book by Tom Hughes-Croucher, a bit older, but explains the fundamentals|2||
+|Hackathon Starter|https://github.com/sahat/hackathon-starter|Boilerplate app to get Noding in no time!|4||
+|Full Streams Ahead|http://dry.ly/full-streams-ahead|Introduction to streams in Node|4||
+|Node.js Picture VOting App Tutorial|http://tutorialzine.com/2014/01/nodejs-picture-voting-game-part-1/|Step by step on how to create a voting app in node.js|3||
+|Real-time collaborative drawing with Node.JS|http://12devsofxmas.co.uk/2012/12/day-3-realtime-collaborative-drawing-with-node-js/|Step by step on how to create a real-time collaborative drawing tool with the Express framework for node.js, socket.io & paper.js|2||
+
+
 
 _\*1 is "What is JavaScript?" and 5 is "Go forth, young padawon, rely on your training and you will succeed!"_
 
