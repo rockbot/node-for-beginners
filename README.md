@@ -47,6 +47,9 @@ Mean stack articles + many good things|http://flip.it/OxXyB|Magazine about the M
 |5 Best Node.js Books for Beginners- Javascript Basic, Nodejs Starter Books|http://www.tutorialindustry.com/5-best-nodejs-books-for-beginners|There are many great books available for node.js, here are few books from the best publishers on javascript, nodejs beginners, advanced.|1||
 |Node.js Developer Roadmap: How to Be a Node.js Developer?|http://www.tutorialindustry.com/how-to-be-a-nodejs-developer|Why should I learn Node.js? What are the prerequisites? What are the steps involved in becoming a good nodejs programmer?|1||
 |Node.js Infographic|http://www.tutorialindustry.com/nodejs-infographic|This Node.js Infographic explains why you should learn node.js (in a different approach.) Also checkout the google trends showing node.js, indeed.com showing node.js job trends.|1||
+|10 Habits of the Happy Node Hacker|https://blog.heroku.com/archives/2014/3/11/node-habits|A blog post from Heroku with tips and techniques to keep you and your node apps happy.|||
+|Server Side Node|https://github.com/hegdeashwin/Server-Side-Node.js|This training kit has been developed for those who already have the basic knowledge of JavaScript; This training kit will teach you the basics of NodeJS and NPM (Node Package Manager).|1||
+
 
 
 
