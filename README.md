@@ -25,3 +25,12 @@ issue](https://github.com/rockbot/node-for-beginners/issues)), or reach out
 to the fine folks behind the link itself.
 
 Welcome to Node.js, and be sure to ask questions!! Have fun :-D
+
+## Development
+
+To fetch the latest content from the spreadsheet and  build the static site:
+
+```sh
+npm install
+npm run build
+```
