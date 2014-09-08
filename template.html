@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>Node for Beginners</title>
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Source+Code+Pro:400,600,700' rel='stylesheet' type='text/css'>
+    <link href='styles.css' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <section>
+
+      <h1>Node for Beginners</h1>
+
+      {{#levels}}
+        <h2>{{title}}</h2>
+        <ul class="entries">
+          {{#rows}}
+            <li>
+              <h3><a href="{{url}}">{{title}}</a></h3>
+              <p>{{description}}</p>
+            </li>
+          {{/rows}}
+        </ul>
+      {{/levels}}
+
+      <footer>
+        <p>
+          Got a good link?
+          <a href="https://docs.google.com/spreadsheet/ccc?key=0Ai2sCp3HpDyGdDRVZWJmaGItaU5BY0NDWEFfY3cyU1E&usp=sharing">Add it!</a>
+        </p>
+
+        <p>
+          Found a bug?
+          <a href="https://github.com/rockbot/node-for-beginners">Fix it!</a>
+        </p>
+      </footer>
+
+    </section>
+  </body>
+</html>
