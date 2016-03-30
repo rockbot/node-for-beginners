@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  padding: 0px;
+  font-family: "Source Sans Pro";
+  border-top: 20px solid #cb3837;
+}
+
+section {
+  position: relative;
+  max-width: 600px;
+  padding: 20px;
+  margin: 30px auto;
+}
+
+a {
+  color: #cb3837;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+h2 {
+  margin-top: 40px;
+  font-size: 24px;
+  color: #999;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+h3 a {
+  color: #cb3837;
+  text-decoration: none;
+}
+
+h3 span {
+  color: #999;
+  font-size: 16px;
+}
+
+h3 a:hover {
+  text-decoration: underline;
+}
+
+p {
+  color: #666;
+  margin: 0;
+  padding: 0;
+}
+
+ul.entries {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.entries li {
+  margin: 25px 0;
+}
+
+footer {
+  margin: 80px 0 20px 0;
+}
+
+footer p {
+  text-align: center;
+  padding: 6px 0;
+}

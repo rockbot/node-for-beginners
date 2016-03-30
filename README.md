@@ -50,6 +50,7 @@ Mean stack articles + many good things|http://flip.it/OxXyB|Magazine about the M
 |10 Habits of the Happy Node Hacker|https://blog.heroku.com/archives/2014/3/11/node-habits|A blog post from Heroku with tips and techniques to keep you and your node apps happy.|||
 |Server Side Node|https://github.com/hegdeashwin/Server-Side-Node.js|This training kit has been developed for those who already have the basic knowledge of JavaScript; This training kit will teach you the basics of NodeJS and NPM (Node Package Manager).|1||
 
+## Adding to this List
 
 
 
@@ -71,3 +72,12 @@ _\*1 is "What is JavaScript?" and 5 is "Go forth, young padawon, rely on your tr
 This list is completely and totally created by and for the public. I have not and will not personally guarantee the validity or reliability of any of the links. Your use of this list is at your risk, though chances are pretty good that any opportunity to learn is a good one :-) If you have any actual beef with certain listings, please let me know ([create an issue](https://github.com/rockbot/node-for-beginners/issues)), or reach out to the fine folks behind the link itself.
 
 Welcome to Node.js, and be sure to ask questions!! Have fun :-D
+
+## Development
+
+To fetch the latest content from the spreadsheet and  build the static site:
+
+```sh
+npm install
+npm run build
+```

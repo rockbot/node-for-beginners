@@ -1,0 +1,33 @@
+{
+  "name": "node-for-beginners",
+  "version": "1.0.0",
+  "description": "A collection of Node.js tutorials",
+  "dependencies": {
+    "google-spreadsheet": "^0.2.8",
+    "lodash.pick": "^2.4.1",
+    "mustache": "^0.8.2",
+    "open": "0.0.5"
+  },
+  "scripts": {
+    "build": "./bin/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rockbot/node-for-beginners"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "tutorial",
+    "beginners",
+    "learning",
+    "documentation",
+    "community"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockbot/node-for-beginners/issues"
+  },
+  "homepage": "https://github.com/rockbot/node-for-beginners"
+}
