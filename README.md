@@ -25,7 +25,7 @@ A list of resources for Node.js Newbies!
 |Bevry's introduction to Node.js|http://bevry.me/node/preface|This class was originally run for General Assembly in Sydney, and has been recorded and made available online.|3||
 |Node Angular Mongo & Express
 Mean stack articles + many good things|http://flip.it/OxXyB|Magazine about the MEAN stack (MongoDB, ExpressJS, AngularJS and Node.js)|*||
-|Learn All The Nodes|http://learnallthenodes.com|Weekly screencasts on Node.js.  The current episodes are all beginners.|2||
+|Learn All The Nodes|https://www.youtube.com/playlist?list=PLQmX5gaHg2SXyKuT9BQ_nbFIdZ39yeRxH|Weekly screencasts on Node.js.  The current episodes are all beginners.|2||
 |Node: Up and Running|http://chimera.labs.oreilly.com/books/1234000001808/index.html|Book by Tom Hughes-Croucher, a bit older, but explains the fundamentals|2||
 |Hackathon Starter|https://github.com/sahat/hackathon-starter|Boilerplate app to get Noding in no time!|4||
 |Full Streams Ahead|http://dry.ly/full-streams-ahead|Introduction to streams in Node|4||
