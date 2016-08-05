@@ -49,7 +49,7 @@ Mean stack articles + many good things|http://flip.it/OxXyB|Magazine about the M
 |Node.js Infographic|http://www.tutorialindustry.com/nodejs-infographic|This Node.js Infographic explains why you should learn node.js (in a different approach.) Also checkout the google trends showing node.js, indeed.com showing node.js job trends.|1||
 |10 Habits of the Happy Node Hacker|https://blog.heroku.com/archives/2014/3/11/node-habits|A blog post from Heroku with tips and techniques to keep you and your node apps happy.|||
 |Server Side Node|https://github.com/hegdeashwin/Server-Side-Node.js|This training kit has been developed for those who already have the basic knowledge of JavaScript; This training kit will teach you the basics of NodeJS and NPM (Node Package Manager).|1||
-
+|Easy Node Authentication Using Passport|https://scotch.io/tutorials/upgrading-our-easy-node-authentication-series-to-expressjs-4-0|Tutorial on how to add authentication to Node.js apps using the Passport.js package.|3||
 
 
 
